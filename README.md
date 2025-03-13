@@ -58,4 +58,4 @@
        
       • To enhance accessibility, expand Markers settings, select a region, and change the marker shape. Repeat this for the other regions with different marker shapes.
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/Report-Accessiblility/blob/2ed92956753dd82988b76030c061e7865aacd4e1/Screenshot%205.png)
