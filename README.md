@@ -138,7 +138,9 @@
 
   After making all necessary changes, save the report by opening the File menu and selecting Save. Your final report should now appear as shown below:
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/Report-Accessiblility/blob/b5b245c21624b28d86e803eb60b354aca666daf4/Screenshot%2013.png)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Step 6: Summary of Accessibility Improvements
 
@@ -155,3 +157,5 @@
     • Tab Order: Tab orders were adjusted for easier keyboard navigation, aiding users with motor difficulties.
 
     • Accessible Theme: An accessible theme was applied, featuring large fonts and a high-contrast color palette to enhance readability and overall accessibility.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
