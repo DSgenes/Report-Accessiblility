@@ -112,4 +112,22 @@
      You can customize each chart item's color by selecting visuals individually. In the Format tab, expand the relevant section (e.g., Lines for the line chart, Columns for the clustered 
      column chart, or Bars for the stacked bar chart) to adjust the colors from light to dark shades.
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+# Step 4: Enhance Chart Navigation by Changing Tab Order
+
+![image_alt]()
+
+    1. In the View tab, under Show panes, select Selection to open the Selection pane.
+      
+    2. Drag and reorder the visuals in the following order (as shown in the screenshot below):
+      
+    • Text box
+      
+    • Monthly Order Total by Product Region
+      
+    • Monthly Order Quantities by Order Status
+      
+    • Monthly Order Quantities by Product Region
+
+![image_alt]()
