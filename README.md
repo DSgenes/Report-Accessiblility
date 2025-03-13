@@ -130,4 +130,4 @@
       
     • Monthly Order Quantities by Product Region
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/Report-Accessiblility/blob/f92797fcbdf2af04f7f17f7b21b73652bfd35ca3/Screenshot%2012.png)
