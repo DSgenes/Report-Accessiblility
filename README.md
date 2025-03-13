@@ -106,7 +106,7 @@
 
    • The selected theme will instantly apply to all visuals in your report, as shown in the screenshot below.
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/Report-Accessiblility/blob/c49a2d5077271d6d8a0320ae09baa9d998ffe8bb/Screenshot%2010.png)
 
 # Note:
      You can customize each chart item's color by selecting visuals individually. In the Format tab, expand the relevant section (e.g., Lines for the line chart, Columns for the clustered 
