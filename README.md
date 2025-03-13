@@ -102,7 +102,7 @@
   
    • Select a theme from the Accessible themes category, such as Accessible City Park.
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/Report-Accessiblility/blob/d12c956804d53efa03f87b07c03c2701d3c3414a/Screenshot%209.png)
 
    • The selected theme will instantly apply to all visuals in your report, as shown in the screenshot below.
 
