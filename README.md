@@ -11,7 +11,5 @@
 # Case Study : 
 
 Adventure Works recently welcomed new members to its sales team, including Logan, who is visually impaired. Committed to inclusivity, the directors have asked the data analytics team to ensure all reports are accessible, aiming to make them 
-
 more user-friendly for a wider audience. You are assigned the task of incorporating accessibility features to enhance and refine an existing report that contains sales data for the months of February, March, and April across various sales 
-
 regions, aligning with the best practices you have learned.
