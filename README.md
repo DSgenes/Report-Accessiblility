@@ -57,3 +57,5 @@
       • Open the Format tab, scroll to Markers, and toggle it to On.
        
       • To enhance accessibility, expand Markers settings, select a region, and change the marker shape. Repeat this for the other regions with different marker shapes.
+
+![image_alt](https://github.com/DSgenes/Report-Accessiblility/blob/a09054ec5c6e9b33d60f1dde82cd48cfa09eae70/Screenshot%204.png)
