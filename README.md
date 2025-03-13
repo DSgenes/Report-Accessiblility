@@ -59,3 +59,37 @@
       • To enhance accessibility, expand Markers settings, select a region, and change the marker shape. Repeat this for the other regions with different marker shapes.
 
 ![image_alt](https://github.com/DSgenes/Report-Accessiblility/blob/2ed92956753dd82988b76030c061e7865aacd4e1/Screenshot%205.png)
+
+      • Exit Focus Mode by clicking Back to report 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Add Alt Text:
+
+# Clustered Column Visual (bottom left):
+
+     • Select the visual, go to the Format tab, expand Alt text, and set the alt text to:
+    
+     • "From February to April, canceled orders were the lowest, processing showed steady growth, and shipped surged in April."
+
+![image_alt]()
+
+# Line Chart Visual (top right):
+
+     • Select the visual, open the Format tab, expand Alt text, and set the alt text to:
+    
+     • "Order totals increased monthly across regions, with Europe leading. North America and Europe grew monthly, especially in April. Asia’s growth slowed from March to April, with totals 
+     
+        similar to North America, except in March when Asia overtook."
+
+![image_alt]()
+
+# Stacked Bar Visual (bottom right):
+
+    • Select the visual, open the Format tab, expand Alt text, and set the alt text to:
+
+    • "Order quantities increased monthly in all regions, with Europe leading and accelerating growth. Asia’s growth peaked from February to March, while North America showed the opposite 
+     
+       trend."
+
+![image_alt]()
