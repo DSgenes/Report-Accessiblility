@@ -93,3 +93,23 @@
        trend."
 
 ![image_alt](https://github.com/DSgenes/Report-Accessiblility/blob/07853034069c8599b88e84983fb251f63238d688/Screenshot%208.png)
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Use an Accessible Theme:
+
+   • Open the Themes dropdown in the View ribbon.
+  
+   • Select a theme from the Accessible themes category, such as Accessible City Park.
+
+![image_alt]()
+
+   • The selected theme will instantly apply to all visuals in your report, as shown in the screenshot below.
+
+![image_alt]()
+
+# Note:
+     You can customize each chart item's color by selecting visuals individually. In the Format tab, expand the relevant section (e.g., Lines for the line chart, Columns for the clustered 
+     column chart, or Bars for the stacked bar chart) to adjust the colors from light to dark shades.
+
+
