@@ -72,7 +72,7 @@
     
      • "From February to April, canceled orders were the lowest, processing showed steady growth, and shipped surged in April."
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/Report-Accessiblility/blob/6989ffa055d2d53efcedce7e3b4badbf27233f56/Screenshot%206.png)
 
 # Line Chart Visual (top right):
 
