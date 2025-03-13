@@ -116,7 +116,7 @@
 
 # Step 4: Enhance Chart Navigation by Changing Tab Order
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/Report-Accessiblility/blob/2aa797afc04a49a6abd8352536f8498053116702/Screenshot%2011.png)
 
     1. In the View tab, under Show panes, select Selection to open the Selection pane.
       
