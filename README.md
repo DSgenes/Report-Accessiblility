@@ -33,3 +33,9 @@
       • To add the title, select the report title and update it to "Adventure Works Quarterly Regional Sales Report."
 
   ![image_alt](https://github.com/DSgenes/Report-Accessiblility/blob/6b49d96d2e28c094b575cec09f098db4bec90a5a/Screenshot%202.png)
+
+# Step 3: Improve the accessibility of chart visuals
+
+      • Ensure the visuals have clear and descriptive chart titles, as shown in the screenshot below.
+
+![image_alt]()
