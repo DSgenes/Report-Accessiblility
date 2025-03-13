@@ -82,7 +82,7 @@
      
         similar to North America, except in March when Asia overtook."
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/Report-Accessiblility/blob/023ac9a693a65f985c3ffd2d543e966e8cccf205/Screenshot%207.png)
 
 # Stacked Bar Visual (bottom right):
 
