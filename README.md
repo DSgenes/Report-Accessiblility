@@ -40,6 +40,8 @@
 
 ![image_alt](https://github.com/DSgenes/Report-Accessiblility/blob/649727e42ccff4d60233b94371930243137995b4/Screenshot%203.png)
 
+# Improve Chart Titles : 
+
       • Select the clustered column chart (bottom left), open the Format tab, expand Title, and change it to: "Monthly Order Quantities by Order Status."
 
       • Repeat for the line chart (top right), updating the title to: "Monthly Order Total by Product Region."
@@ -47,3 +49,11 @@
       • Repeat for the stacked bar chart (bottom right), changing the title to: "Monthly Order Quantities by Product Region."
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Display Markers in the Line Chart:
+
+      • Select the line chart (top right), then click the Focus mode button to zoom in.
+       
+      • Open the Format tab, scroll to Markers, and toggle it to On.
+       
+      • To enhance accessibility, expand Markers settings, select a region, and change the marker shape. Repeat this for the other regions with different marker shapes.
