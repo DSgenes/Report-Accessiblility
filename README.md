@@ -16,7 +16,7 @@
   of February, March, and April across various sales 
   regions, aligning with the best practices you have learned.
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Step 1: Open the report in Power BI Desktop.
 
@@ -39,3 +39,11 @@
       • Ensure the visuals have clear and descriptive chart titles, as shown in the screenshot below.
 
 ![image_alt](https://github.com/DSgenes/Report-Accessiblility/blob/649727e42ccff4d60233b94371930243137995b4/Screenshot%203.png)
+
+      • Select the clustered column chart (bottom left), open the Format tab, expand Title, and change it to: "Monthly Order Quantities by Order Status."
+
+      • Repeat for the line chart (top right), updating the title to: "Monthly Order Total by Product Region."
+      
+      • Repeat for the stacked bar chart (bottom right), changing the title to: "Monthly Order Quantities by Product Region."
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
