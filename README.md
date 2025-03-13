@@ -32,4 +32,4 @@
 
       • To add the title, select the report title and update it to "Adventure Works Quarterly Regional Sales Report."
 
-  ![image_alt]()
+  ![image_alt](https://github.com/DSgenes/Report-Accessiblility/blob/6b49d96d2e28c094b575cec09f098db4bec90a5a/Screenshot%202.png)
