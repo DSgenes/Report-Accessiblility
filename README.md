@@ -14,7 +14,8 @@ Adventure Works recently welcomed new members to its sales team, including Logan
 more user-friendly for a wider audience. You are assigned the task of incorporating accessibility features to enhance and refine an existing report that contains sales data for the months of February, March, and April across various sales 
 regions, aligning with the best practices you have learned.
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 This step gives you access to the current structure and contents of the report, enabling you to determine where necessary improvements to accessibility need to be made.
 
+![image_alt](https://github.com/DSgenes/Report-Accessiblility/blob/47d002ac492d4a1839c03bd7645917356f811c3c/Screenshot%201.png)
