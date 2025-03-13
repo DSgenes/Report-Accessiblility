@@ -131,3 +131,27 @@
     • Monthly Order Quantities by Product Region
 
 ![image_alt](https://github.com/DSgenes/Report-Accessiblility/blob/f92797fcbdf2af04f7f17f7b21b73652bfd35ca3/Screenshot%2012.png)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Step 5: Save the Report
+
+  After making all necessary changes, save the report by opening the File menu and selecting Save. Your final report should now appear as shown below:
+
+![image_alt]()
+
+# Step 6: Summary of Accessibility Improvements
+
+  The following changes were made to enhance the accessibility of the Power BI report, focusing on improving the experience for visually impaired users like Logan:
+
+    • Descriptive Titles: The report and chart titles were made more descriptive, helping users quickly understand the report’s purpose and each chart’s content.
+
+    • Alt Text: Alt text was added for each chart, allowing visually impaired users to understand the data through screen readers and providing insights for all users.
+
+    • Markers: Markers were added to the line chart to help users differentiate data points without relying solely on color.
+
+    • Shaded Colors: Shaded colors were introduced to improve contrast, making it easier for visually impaired users to distinguish chart elements.
+
+    • Tab Order: Tab orders were adjusted for easier keyboard navigation, aiding users with motor difficulties.
+
+    • Accessible Theme: An accessible theme was applied, featuring large fonts and a high-contrast color palette to enhance readability and overall accessibility.
