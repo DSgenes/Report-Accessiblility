@@ -38,4 +38,4 @@
 
       • Ensure the visuals have clear and descriptive chart titles, as shown in the screenshot below.
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/Report-Accessiblility/blob/649727e42ccff4d60233b94371930243137995b4/Screenshot%203.png)
